@@ -8,7 +8,7 @@ public class Game {
   
   public Game() {
 
-    grid = new Grid(5, 10);
+    grid = new Grid(20, 10);
     userRow = 3;
     msElapsed = 0;
     timesGet = 0;
